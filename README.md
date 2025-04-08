@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="public/favicon.svg" width="100" height="100" alt="Mini-Cover Logo">
+  <img src="public/favicon.svg" width="100" height="100" alt="Ke Miao-Cover Logo">
 </p>
 
-<h1 align="center">Mini-Cover</h1>
+<h1 align="center">Ke Miao-Cover</h1>
 
 <p align="center">优雅的在线封面生成工具</p>
 
@@ -26,7 +26,7 @@
 
 ## 📖 简介
 
-Mini-Cover 是一个现代化的封面生成工具，专为博客、短视频、社交媒体设计。支持多种自定义选项，让你轻松创建个性化封面图片。
+Ke Miao-Cover 是一个现代化的封面生成工具，专为博客、短视频、社交媒体设计。支持多种自定义选项，让你轻松创建个性化封面图片。
 
 ## ✨ 特性
 
